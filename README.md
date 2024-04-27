@@ -1,0 +1,1 @@
+This is my Trainer I made for assualt cube this took me a hour this uses the Memory.dll libary to read and write process memory also there is a issue that i cant fix where when you close the process its not fully closed
