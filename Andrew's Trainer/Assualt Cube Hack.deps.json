@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Assualt Cube Hack/1.0.0": {
+        "dependencies": {
+          "Memory.dll.x64": "1.2.27",
+          "Memory.dll.x86": "1.2.27"
+        },
+        "runtime": {
+          "Assualt Cube Hack.dll": {}
+        }
+      },
+      "Memory.dll.x64/1.2.27": {
+        "runtime": {
+          "lib/netstandard2.0/Memory.dll": {
+            "assemblyVersion": "1.2.27.0",
+            "fileVersion": "1.2.27.0"
+          }
+        }
+      },
+      "Memory.dll.x86/1.2.27": {}
+    }
+  },
+  "libraries": {
+    "Assualt Cube Hack/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Memory.dll.x64/1.2.27": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hu7a3ImbDrvQyF0jnCxcesjTiIZbLHtuh6D/SINeFSp6E8x5BBdiQOdIkUXaxxr8ZWN7P9UIKgEUHy4jazdzhA==",
+      "path": "memory.dll.x64/1.2.27",
+      "hashPath": "memory.dll.x64.1.2.27.nupkg.sha512"
+    },
+    "Memory.dll.x86/1.2.27": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kQe+v92w3Au5jgT8INokAtp7ssFUEjlrylxJzbD9PgXwB/2xtpxxgj84rHfhKSK6NclwKKoPxUoYuJNgR9cuzg==",
+      "path": "memory.dll.x86/1.2.27",
+      "hashPath": "memory.dll.x86.1.2.27.nupkg.sha512"
+    }
+  }
+}
